@@ -1,0 +1,11 @@
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+.env
+.DS_Store
+._*
+.auth/
+results/
+!.env.example
+Candidate Assessment.html
